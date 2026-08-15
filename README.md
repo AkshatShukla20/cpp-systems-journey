@@ -65,3 +65,4 @@ This repository doubles as my personal system-engineering journal. Every impleme
 ---
 
 ## 🗺️ Long-Term Vision
+This repository anchors the foundational phase of my long-term AI Systems Engineering Roadmap:
