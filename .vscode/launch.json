@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/AKSHAT/OneDrive/Desktop/C++ _Systems_Arsenal/Basics_Intro",
+      "program": "c:/Users/AKSHAT/OneDrive/Desktop/C++ _Systems_Arsenal/Basics_Intro/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
